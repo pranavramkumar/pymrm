@@ -6,22 +6,23 @@ It comprises the following .py files which can be called into notebooks as shown
 
 dataaccess.py <br>
 datacleaning.py <br>
-datatransformations.py
-exploratorydataanalysis.py
-hypothesistesting.py
-probabilitydistributions.py
-samplestatistics.py
+datatransformations.py <br>
+exploratorydataanalysis.py <br>
+hypothesistesting.py <br>
+probabilitydistributions.py <br>
+samplestatistics.py <br>
 
-econometrics.py
-machinelearning.py
-stochasticmodeling.py
-timeseries.py
-gis.py
-nlp.py
-pricing.py
-stockpicking.py
+econometrics.py <br>
+machinelearning.py <br>
+stochasticmodeling.py <br>
+timeseries.py <br>
+gis.py <br>
+nlp.py <br>
+pricing.py <br>
+stockpicking.py <br>
 
-validationmetrics.py
-riskmetrics.py
+validationmetrics.py <br>
+riskmetrics.py <br>
+portfoliometrics.py <br>
 portfoliometrics.py
 
