@@ -4,8 +4,8 @@ pymrm is a syndicated set of .py methods for econometric, stochastic, time-serie
 Py MRM stands for Python Model Risk Management.
 It comprises the following .py files which can be called into notebooks as shown in the example notebook files.
 
-dataaccess.py
-datacleaning.py
+dataaccess.py <br>
+datacleaning.py <br>
 datatransformations.py
 exploratorydataanalysis.py
 hypothesistesting.py
